@@ -1,3 +1,9 @@
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Common Lisp
 *.FASL
 *.fasl
 *.lisp-temp
