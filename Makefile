@@ -19,7 +19,6 @@ install-roswell:
 	touch $@
 
 install-dependencies:
-	ros install cl-ppcre
 	ros install fiveam
 	ros install macnod/dc-ds
 
